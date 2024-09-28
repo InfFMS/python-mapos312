@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3bf5c73-e309-48c9-8587-c6a0db96dbae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/task2_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4_even_odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/task4_even_odd.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +30,8 @@
   "keyToString": {
     "Python.task1_greeting.executor": "Run",
     "Python.task2_sum.executor": "Run",
+    "Python.task3_rectangle.executor": "Run",
+    "Python.task4_even_odd.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
