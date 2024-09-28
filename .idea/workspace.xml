@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3bf5c73-e309-48c9-8587-c6a0db96dbae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/task4_even_odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/task4_even_odd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5_reverse_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/task5_reverse_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task6_arithmetic_progression.py" beforeDir="false" afterPath="$PROJECT_DIR$/task6_arithmetic_progression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/task7_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,9 @@
     "Python.task2_sum.executor": "Run",
     "Python.task3_rectangle.executor": "Run",
     "Python.task4_even_odd.executor": "Run",
+    "Python.task5_reverse_number.executor": "Run",
+    "Python.task6_arithmetic_progression.executor": "Run",
+    "Python.task7_calculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
